@@ -1,0 +1,39 @@
+.border { border-bottom: 1px solid #ddd }
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+    .border { border-bottom: 0.5px solid #ddd }
+}
+@media screen and (-webkit-min-device-pixel-ratio: 3) {
+    .border { border-bottom: 0.333333px solid #ddd }
+}
+
+.border-right { border-right: 1px solid #ddd }
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+    .border-right { border-right: 0.5px solid #ddd }
+}
+@media screen and (-webkit-min-device-pixel-ratio: 3) {
+    .border-right { border-right: 0.333333px solid #ddd }
+}
+
+.border-left { border-left: 1px solid #ddd }
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+    .border-left { border-left: 0.5px solid #ddd }
+}
+@media screen and (-webkit-min-device-pixel-ratio: 3) {
+    .border-left { border-left: 0.333333px solid #ddd }
+}
+
+.border-all { border: 1px solid #ddd }
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+    .border-all { border: 0.5px solid #ddd }
+}
+@media screen and (-webkit-min-device-pixel-ratio: 3) {
+    .border-all { border: 0.333333px solid #ddd }
+}
+
+.border-top { border-top: 1px solid #ddd }
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+    .border-top { border-top: 0.5px solid #ddd }
+}
+@media screen and (-webkit-min-device-pixel-ratio: 3) {
+    .border-top { border-top: 0.333333px solid #ddd }
+}
